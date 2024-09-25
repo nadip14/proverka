@@ -16,7 +16,7 @@
 <li>Многоуровневый</li>
 </ul>
 
-<img src=”fff.jpg”>
+<img src=”/photo/fff.jpg”>
 
 </body>
 </html>
